@@ -32,7 +32,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/GRUPO6-3CTJ/Challenge_3.git
+    git clone https://github.com/GRUPO6-3CTJ/CHALLENGE_FRONT.git
     ```
 
 2. Navegue até o diretório do projeto:
