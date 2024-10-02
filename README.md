@@ -54,7 +54,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 ## Arquivos Necessários
 
-- **Livros.zip**: Este arquivo contém os dados de livros necessários para a aplicação. Descompacte-o e coloque-o na pasta `public` ou em outro diretório específico, conforme a configuração do seu projeto.
+- **Projeto_Fiap.zip**: Este arquivo contém os dados de livros necessários para a aplicação. Descompacte-o e coloque-o na pasta `public` ou em outro diretório específico, conforme a configuração do seu projeto.
 
 Certifique-se de que os arquivos estão no diretório correto antes de iniciar o projeto.
 
