@@ -84,7 +84,7 @@ export default {
 
 ## Demonstração
 
-Veja o vídeo de demonstração do fluxo completo da aplicação, desde a navegação até a manipulação dos livros: [Link para o vídeo](https://www.youtube.com).
+Veja o vídeo de demonstração do fluxo completo da aplicação, desde a navegação até a manipulação dos livros: [Link para o vídeo](https://drive.google.com/drive/u/1/folders/1qfkRkbKT29fq9YuBiPKKpUk3j4S5-ZLa).
 
 ## Como Contribuir
 
