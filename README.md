@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/f11448ce-8488-4eb4-a134-36e804d36793)
+![image](https://github.com/user-attachments/assets/2019e514-2296-46ec-92ee-955e073002ee)
+
 
 # Book Management App - Tech Challenge
 
